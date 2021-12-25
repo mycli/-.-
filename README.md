@@ -2,7 +2,8 @@
 
 ## 前端就业班２.０（版本）
 ![image](https://user-images.githubusercontent.com/41461298/147387916-551ff135-58cf-44dd-b7ac-a16f3975ed4f.png)
-
+https://pan.baidu.com/s/1qCeDf0BmnsciQtjY6tzPrA 
+提取码：zscd 
 ### 阶段一 前端开发基础cmL46679910
 
 第一章 前端就业班课程导学
